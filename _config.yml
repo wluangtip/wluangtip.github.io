@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wasutep Luangtip"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Astrophysicist working on observations of accretion onto compact objects."
   location         : "Thailand"
   employer         : "Srinakharinwirot University"
@@ -33,18 +33,18 @@ author:
   email            : "wasutep@g.swu.ac.th" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4516-6042"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
