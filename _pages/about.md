@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wasutep Luangtip, commonly known as Ton. I am an astrophysicist working on observations of accretion onto compact objects.
+My name is Wasutep Luangtip, commonly known as Ton. I am an astrophysicist working on observations of accretion onto compact objects.
 
 My research focuses on the observational properties of accretion in extreme environments, including ultraluminous X-ray sources (ULXs) as well as X-ray binaries and active galactic nuclei (AGN). I specialise in high-energy astrophysics, with particular emphasis on systems accreting at high and super-Eddington mass accretion rates.
 
