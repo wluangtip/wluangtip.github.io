@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======  
 * PhD in Physics (X-ray Astronomy)
-  * Durham University, UK | 2015
+  * Durham University, UK, 2015
 * MSc in Physics
-  * Mahidol University, Thailand | 2008
+  * Mahidol University, Thailand, 2008
 * BSc in Physics
-  * Kasetsart University,Thailand | 2006
+  * Kasetsart University,Thailand, 2006
 
 Work experience
 ======
