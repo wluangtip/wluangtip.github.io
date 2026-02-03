@@ -20,9 +20,9 @@ Education
 
 Work experience
 ======
-* Feb 2020: Assistant Professor
+* Feb 2020 – Present: Assistant Professor
   * Srinakharinwirot University
-* Nov 2015: Lecturer
+* Nov 2015 – Jan 2020: Lecturer
   * Srinakharinwirot University
  
 &nbsp;
