@@ -1,30 +1,14 @@
 {% include base_path %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
     <h2 class="archive__item-title" itemprop="headline" style="margin-bottom: 5px;">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ title }}</a>
-      {% else %}
-        {{ title }}
-      {% endif %}
+      <a href="{{ post.paperurl }}">{{ post.title }}</a>
     </h2>
 
-    <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0;">
-      {% if post.authors %}
-        {{ post.authors }}; 
-      {% endif %}
-      
-      {% if post.venue %}
-        Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-      {% endif %}
+    <p style="margin-top: 0;">
+      {{ post.authors }}; Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
     </p>
 
   </article>
