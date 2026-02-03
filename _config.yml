@@ -29,7 +29,7 @@ author:
   bio              : "Astrophysicist working on observations of accretion onto compact objects."
   location         : "Thailand"
   employer         : "Srinakharinwirot University"
-  uri              : "https://www.swu.ac.th" # URL
+  uri              : # URL
   email            : "wasutep@g.swu.ac.th" 
 
   # Academic websites
