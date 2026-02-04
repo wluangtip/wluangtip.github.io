@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* **PhD in Physics (X-ray Astronomy)**
+* **Ph.D. in Physics (X-ray Astronomy)**
   * Durham University, UK, 2015
-* **MSc in Physics**
+* **M.Sc. in Physics**
   * Mahidol University, Thailand, 2008
-* **BSc in Physics**
+* **B.Sc. in Physics**
   * Kasetsart University,Thailand, 2006
 
 ### Professional Experience
