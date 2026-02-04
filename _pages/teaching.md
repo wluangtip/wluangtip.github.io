@@ -26,3 +26,6 @@ author_profile: true
 * **M.Sc. and Ph.D. Thesis Supervision**: Supervising graduate research focusing on X-ray astrophysics, ultraluminous X-ray sources (ULXs), and accretion onto compact objects.
 * **Undergraduate Senior Projects**: Mentoring final-year students on their independent research and physics projects, with an emphasis on astrophysics topics.
 * **Graduate Seminar (M.Sc. & Ph.D. Levels)**: Overseeing research seminars, focusing on professional scientific communication and current topics in physics and astronomy.
+
+---
+*Last updated: February 2026*
