@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 ### 2025
-* **Luangtip, W.** and Roberts, T.P., *Multiwavelength Variability in the ULX Holmberg IX X-1: A Joint Swift and TNO Campaign*, New Results in X-ray Astronomy & NewAthena, Bristol, UK.
+* **Luangtip, W.**, Loekkesee, S. and Roberts, T.P., *Multiwavelength Variability in the ULX Holmberg IX X-1: A Joint Swift and TNO Campaign*, New Results in X-ray Astronomy & NewAthena, Bristol, UK.
   
 ### 2022
 * **Luangtip, W.** and Eungwanichayapant, A., *Observational constraint of electron/positron pair halos in X-ray waveband*, Exploring the Hot and Energetic Universe: the 3rd scientific conference dedicated to the Athena X-ray observatory, Barcelona, Spain.
