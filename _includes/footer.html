@@ -1,5 +1,12 @@
 {% include base_path %}
 
+<style>
+  /* สั่งซ่อนส่วนหัวข้อ sitemap และเครื่องหมาย feed ที่อาจจะค้างอยู่ */
+  .page__footer-follow, .page__footer-follow h4, .page__footer-follow li {
+    display: none !important;
+  }
+</style>
+
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. 
   {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.<br />
