@@ -8,7 +8,7 @@
     </h2>
 
     <p style="margin-top: 0;">
-      {{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}; Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+      {{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
     </p>
 
   </article>
