@@ -15,7 +15,7 @@ redirect_from:
 * **M.Sc. in Physics**
   * Mahidol University, Thailand, 2008
 * **B.Sc. in Physics**
-  * Kasetsart University,Thailand, 2006
+  * Kasetsart University, Thailand, 2006
 
 ### Professional Experience
 * **Assistant Professor**, Department of Physics, Srinakharinwirot University (Feb 2020 – Present)
