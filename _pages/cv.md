@@ -18,12 +18,31 @@ Education
 * BSc in Physics
   * Kasetsart University,Thailand, 2006
 
-Work experience
-======
-* Feb 2020 – Present: Assistant Professor
-  * Srinakharinwirot University
-* Nov 2015 – Jan 2020: Lecturer
-  * Srinakharinwirot University
+### Professional Experience
+* **Assistant Professor**, Department of Physics, Srinakharinwirot University (Feb 2020 – Present)
+* **Lecturer**, Department of Physics, Srinakharinwirot University (2015 – 2020)
+
+### Academic Administration
+* **Programme Executive Committee**, M.Sc. and Ph.D. Programmes in Physics (2018 – Present)
+* **Former Programme Coordinator**, M.Sc. and Ph.D. Programmes in Physics
+* **Former Programme Executive Committee**, B.Sc. Programme in Physics
+  
+### Research Interests
+* Ultraluminous X-ray sources (ULXs)
+* Accretion onto compact objects (X-ray binaries, AGN)
+* Observational X-ray Astronomy
+
+### Technical Skills
+* **Scientific Computing:** Python, IDL
+* **X-ray Data Analysis Tools:** XSPEC, CIAO, HEASoft, DS9
+
+### Academic Services & Teaching
+* For a detailed list of courses taught, please visit the [Teaching](/teaching/) page.
+* For conference presentations and talks, please visit the [Talks](/talks/) page.
+* For a complete list of research publications, please visit the [Publications](/publications/) page.
+
+---
+*Last updated: February 2026*
  
 &nbsp;
 
