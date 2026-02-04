@@ -12,11 +12,11 @@ author_profile: true
 
 ### Lecture Courses
 
-* **Graduate Level (M.Sc. and Ph.D.)**
+* **Graduate Level** (M.Sc. and Ph.D.)
     * **Observations of Accretion onto Compact Objects** (Focus: X-ray data analysis of compact objects using XSPEC, CIAO, and HEASoft).
     * **Astronomy and Astrophysics** (Advanced topics)
 
-* **Undergraduate Level (B.Sc., B.Ed. & B.E.)**
+* **Undergraduate Level** (B.Sc., B.Ed. & B.E.)
     * **Astronomy and Astrophysics** (Introductory)
     * **Earth and Space Science**
     * **Introductory Physics I & II**
