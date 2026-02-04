@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Academic Administration
+* **Programme Executive Committee**, M.Sc. and Ph.D. Programmes in Physics
+* **Former Programme Coordinator**, M.Sc. Programmes in Physics (2021 – 2025)
+* **Former Programme Executive Committee**, B.Sc. Programme in Physics (2016 – 2018)
+
 ### Lecture Courses
 
 **Graduate Level (M.Sc. and Ph.D.)**
@@ -22,9 +27,3 @@ author_profile: true
 * **M.Sc. and Ph.D. Thesis Supervision**: Supervising graduate research focusing on X-ray astrophysics, ultraluminous X-ray sources (ULXs), and accretion onto compact objects.
 * **Undergraduate Senior Projects**: Mentoring final-year students on their independent research and physics projects, with an emphasis on astrophysics topics.
 * **Graduate Seminar (M.Sc. & Ph.D. Levels)**: Overseeing research seminars, focusing on professional scientific communication and current topics in physics and astronomy.
-
-### Academic Administration
-* **Programme Executive Committee**, M.Sc. and Ph.D. Programmes in Physics
-* **Former Programme Coordinator**, M.Sc. Programmes in Physics (2021 – 2025)
-* **Former Programme Executive Committee**, B.Sc. Programme in Physics (2016 – 2018)
-
