@@ -12,16 +12,15 @@ author_profile: true
 
 ### Lecture Courses
 
-#### Graduate Level (M.Sc. and Ph.D.)
-* **Observations of Accretion onto Compact Objects**
-    * Focus: Analysis of X-ray data from compact objects using professional software (e.g., XSPEC, CIAO, HEASoft).
-* **Astronomy and Astrophysics** (Advanced topics)
+* **Graduate Level (M.Sc. and Ph.D.)**
+    * **Observations of Accretion onto Compact Objects** (Focus: X-ray data analysis of compact objects using XSPEC, CIAO, and HEASoft).
+    * **Astronomy and Astrophysics** (Advanced topics)
 
-#### Undergraduate Level (B.Sc., B.Ed. & B.E.)
-* **Astronomy and Astrophysics** (Introductory)
-* **Earth and Space Science**
-* **Introductory Physics I & II**
-* **Introductory Physics Laboratory**
+* **Undergraduate Level (B.Sc., B.Ed. & B.E.)**
+    * **Astronomy and Astrophysics** (Introductory)
+    * **Earth and Space Science**
+    * **Introductory Physics I & II**
+    * **Introductory Physics Laboratory**
   
 ### Student Supervision & Mentoring
 * **M.Sc. and Ph.D. Thesis Supervision**: Supervising graduate research focusing on X-ray astrophysics, ultraluminous X-ray sources (ULXs), and accretion onto compact objects.
