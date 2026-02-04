@@ -47,8 +47,3 @@ redirect_from:
 ---
 *Last updated: February 2026*
  
-&nbsp;
-
-&nbsp;
-
-&nbsp;
