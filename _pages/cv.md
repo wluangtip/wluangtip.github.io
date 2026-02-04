@@ -22,9 +22,13 @@ redirect_from:
 * **Lecturer**, Department of Physics, Srinakharinwirot University (2015 – 2020)
 
 ### Academic Administration
-* **Programme Executive Committee**, M.Sc. and Ph.D. Programmes in Physics (2018 – Present)
-* **Former Programme Coordinator**, M.Sc. and Ph.D. Programmes in Physics
-* **Former Programme Executive Committee**, B.Sc. Programme in Physics
+* **Programme Executive Committee**, M.Sc. and Ph.D. Programmes in Physics (2019 – Present)
+* **Faculty Research Committees**, Faculty of Science (2023 – Present)
+* **Department Research Committee**, Department of Physics (2021 – Present)
+* **Department Academic Service Committee**, Department of Physics (2021 – Present)
+* **Former Programme Coordinator**, M.Sc. Programmes in Physics (2021 – 2025)
+* **Former Department Academic Affairs Committee**, Department of Physics (2018 – 2020)
+* **Former Programme Executive Committee**, B.Sc. Programme in Physics (2016 – 2018)
   
 ### Research Interests
 * Ultraluminous X-ray sources (ULXs)
