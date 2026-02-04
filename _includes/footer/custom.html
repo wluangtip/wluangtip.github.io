@@ -1,1 +1,13 @@
-
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID</a></li>
+    {% endif %}
+    {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+    {% endif %}
+    {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}"><i class="fab fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
+    {% endif %}
+  </ul>
+</div>
