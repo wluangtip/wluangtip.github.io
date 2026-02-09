@@ -18,6 +18,8 @@ redirect_from:
   * Kasetsart University, Thailand, 2006
 
 ### Professional Experience
+* **Visiting Researcher**, Durham University, UK (2023, 2025)
+  * Collaborative research visits (Apr – Jul 2023 and Jul – Aug 2025) focusing on studies of ultraluminous X-ray sources (ULXs).
 * **Assistant Professor**, Department of Physics, Srinakharinwirot University (Feb 2020 – Present)
 * **Lecturer**, Department of Physics, Srinakharinwirot University (2015 – 2020)
 
